@@ -56,7 +56,7 @@ data.forEach((item)=>{
    counter++
 })
 
-// jQuery:
+// jQuery syntax:
 // $('#photo').attr('src', data[index].photo);
 // $('#photo-title').text(data[index].title)
 // $('#photo-description').text(data[index].description)
